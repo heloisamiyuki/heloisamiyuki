@@ -1,8 +1,7 @@
 - 👋 miyuki nakamura
 - 👀 meu interesse é ser cirurgia pediatrica
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 eu estou interesada em programar
+- 📫 meu endereço de email é miyuki10demaio@gmail.com
 
 <!---
 heloisamiyuki/heloisamiyuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
